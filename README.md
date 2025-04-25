@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Kacper B.
 
-<!--
-**kacperb-dev/kacperb-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **freelance software developer** focused on building robust and lightweight **APIs in Python** using **Flask**.  
+Currently working on a set of reusable components and backend services for real-world applications.
 
-Here are some ideas to get you started:
+In the near future, I plan to expand into **desktop apps** (Windows Forms) and **mobile development** (Android) — all integrated with my APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- Python
+- Flask
+- SQLite & SQLAlchemy
+- REST API design
+- Postman & API testing tools
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+Coming soon...
+
+*(I'm currently preparing clean and well-documented public repositories to showcase my freelance work — stay tuned!)*
+
+---
+
+## 📬 Let's connect
+
+- 📧 Email: [kacperb.freelance@gmail.com](mailto:kacperb.freelance@gmail.com)
+- 🌐 Fiverr: [Coming soon](https://fiverr.com)
+- 🔗 GitHub: [github.com/KacperB](https://github.com/KacperB)
+
+---
